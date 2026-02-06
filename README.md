@@ -1,16 +1,22 @@
-# catalogue_app
+# Flutter Collections Accordion UI
 
-A new Flutter project.
+This project is a solution for the Flutter Intern Assignment.
 
-## Getting Started
+## Features
+- Scrollable list of collection cards
+- Accordion-style expand and collapse
+- Only one collection expanded at a time
+- Smooth animations
+- +N image overlay
+- Rounded cards with elevation
+- Uses network images
 
-This project is a starting point for a Flutter application.
+## Project Structure
+- models: data models
+- data: dummy data
+- screens: UI screens
+- widgets: reusable UI components
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. flutter pub get
+2. flutter run
